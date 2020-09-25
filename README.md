@@ -1,6 +1,7 @@
 # Find Delicious Around U Web App
 
 ## Find Delicious Around U
+Note: server closed for running out of free trial on AWS
 [www.FindDeliciousAroundU.net](http://34.220.210.211:8080/Yelp/# "www.FindDeliciousAroundU.net")
 
  - demo
