@@ -5,7 +5,7 @@
 
  - demo
  - Username: test; Password: test
- ![web app demo](https://raw.githubusercontent.com/FatFriedFish/FindDeliciousAroundU/master/images/yelp.gif)
+ ![web app demo](https://raw.githubusercontent.com/brisingr2012/MiniYelp/master/images/yelp.gif)
 
 ## Introduction
 The Find Delicious Around U Web App provides three main APIs for users:
@@ -19,41 +19,41 @@ The Find Delicious Around U Web App also provides Sign-in / Sign-up APIs for use
 
  - Login
 
-![Log in](https://raw.githubusercontent.com/FatFriedFish/FindDeliciousAroundU/master/images/login.PNG)
+![Log in](https://raw.githubusercontent.com/brisingr2012/MiniYelp/master/images/login.PNG)
 
  - Sign Up
 
-![enter image description here](https://raw.githubusercontent.com/FatFriedFish/FindDeliciousAroundU/master/images/signup.PNG)
+![enter image description here](https://raw.githubusercontent.com/brisingr2012/MiniYelp/master/images/signup.PNG)
 
 ## Pages
           
 + Nearby 
-![](https://raw.githubusercontent.com/FatFriedFish/FindDeliciousAroundU/master/images/nearby.PNG)
+![](https://raw.githubusercontent.com/brisingr2012/MiniYelp/master/images/nearby.PNG)
   
 + My Favorites
-![](https://raw.githubusercontent.com/FatFriedFish/FindDeliciousAroundU/master/images/fav.PNG)
+![](https://raw.githubusercontent.com/brisingr2012/MiniYelp/master/images/fav.PNG)
   
 + Recommendation
-![](https://raw.githubusercontent.com/FatFriedFish/FindDeliciousAroundU/master/images/rec.PNG)
+![](https://raw.githubusercontent.com/brisingr2012/MiniYelp/master/images/rec.PNG)
   
 ## Data Flowchart
-![](https://raw.githubusercontent.com/FatFriedFish/FindDeliciousAroundU/master/images/flowchart.png)
+![](https://raw.githubusercontent.com/brisingr2012/MiniYelp/master/images/flowchart.png)
 ## Deploy on Amazon EC2
-![](https://raw.githubusercontent.com/FatFriedFish/FindDeliciousAroundU/master/images/ec2.PNG)
+![](https://raw.githubusercontent.com/brisingr2012/MiniYelp/master/images/ec2.PNG)
 ## MySQL Dataset
     
 + Tables
-![](https://raw.githubusercontent.com/FatFriedFish/FindDeliciousAroundU/master/images/db1.PNG)
+![](https://raw.githubusercontent.com/brisingr2012/MiniYelp/master/images/db1.PNG)
 + "items" Table
-![](https://raw.githubusercontent.com/FatFriedFish/FindDeliciousAroundU/master/images//db2.PNG)
+![](https://raw.githubusercontent.com/brisingr2012/MiniYelp/master/images//db2.PNG)
 
 ## Test on Apache JMeter
 
  - Aphache JMeter: **[http://ftp.wayne.edu/apache/jmeter/binaries](http://ftp.wayne.edu/apache/jmeter/binaries)**
  - Summary Report
- ![enter image description here](https://raw.githubusercontent.com/FatFriedFish/FindDeliciousAroundU/master/images/JUnit.PNG)
+ ![enter image description here](https://raw.githubusercontent.com/brisingr2012/MiniYelp/master/images/JUnit.PNG)
  - Request Per Second (QPS)
- ![enter image description here](https://raw.githubusercontent.com/FatFriedFish/FindDeliciousAroundU/master/images/QPS.PNG)
+ ![enter image description here](https://raw.githubusercontent.com/brisingr2012/MiniYelp/master/images/QPS.PNG)
 
 ## Language，Framework and Libraries
 
